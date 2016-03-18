@@ -1,0 +1,53 @@
+.buttons {
+  font-size: 20pt;
+  color: red;
+}
+.navbar{
+  color: red;
+}
+.h1{
+ border: 2px solid black;
+ text-align: center;
+ background-color: #0099FF;
+ text-decoration: underline;
+ font-family: fantasy;
+ margin-top: 100px;
+}
+.h2{
+  border: 4px solid black;
+  text-align: center;
+  width: 500px;
+  height: auto;
+  align-items: center;
+  margin-left: 320px;
+  position: fixed;
+  margin-top: 2%
+}
+.h2 img {
+  width: 100%;
+  height: 300px;
+  border: 1px grey;
+
+}
+.col-md-4{
+  margin-top: 35%;
+  border: 1px solid black;
+  border-style: groove;
+  padding: px;
+  width: 20%;
+  height: 300px;
+  background-color: #E8E8E8;
+  font-size: 18pt;
+}
+.col-min {
+    min-width:320px;
+  }
+.col-centered {
+    display:inline-block;
+    float:none;
+    text-align:center;
+    margin-right:-4px;
+  }
+  .row-centered {
+    text-align: center;
+  }
