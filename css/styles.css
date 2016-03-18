@@ -83,15 +83,15 @@
   font-variant: normal;
 }
 .contact {
-  border: 18px solid black;
-  text-align: center;
-  background-color: #01df7a;
+  border: 3px solid black;
+  text-align: left;
+  background-color: #00BFFF;
   font-family: fantasy;
   margin-top: 100px;
   margin-left: 100px;
   font-weight: lighter;
-  font-family: "sans";
-  font-size: 26pt;
+  font-family: "arial";
+  font-size: 24pt;
   font-variant: normal;
   float: left;
 }
